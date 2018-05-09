@@ -4,6 +4,8 @@ public class A {
 
     private int age;
 
+    private String name;
+
     public int getAge() {
         return age;
     }
