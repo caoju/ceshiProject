@@ -1,6 +1,9 @@
 package com.cj.first;
 
 public class A {
-    int a;
+
+    private String name;
+
+    private int age;
 
 }
